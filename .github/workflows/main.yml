@@ -15,6 +15,9 @@ jobs:
         
       - name: See folders
         run: ls
+      
+      - name: Build container
+        run: make build
         
       - name: Scrape data
         run: make scrape
