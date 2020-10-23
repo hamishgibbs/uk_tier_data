@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
         
       - name: See folders
-        run: echo ls
+        run: ls
         
       - name: Scrape data
         run: make scrape
