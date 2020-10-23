@@ -13,4 +13,4 @@ bash:
 	docker run -it --rm --mount type=bind,source="${PWD}",target=/usr/tier/ tier bash
 
 scrape:
-	docker run -it --rm --mount type=bind,source="${PWD}",target=/usr/tier/ tier python main.py
+	docker run --rm --mount type=bind,source="${PWD}",target=/usr/tier/ tier python main.py
