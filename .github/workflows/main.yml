@@ -21,7 +21,5 @@ jobs:
         
       - name: Scrape data
         run: docker run --rm --mount type=bind,source=${PWD},target=/usr/tier/ tier python main.py
-      - name: ls
-        run: ls
-      - name: ls output
-        run: ls output
+      - name: Commit changes
+        run: git add . && git commit -m "Automated data update"
