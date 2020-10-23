@@ -12,6 +12,9 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-
-      - name: Run a one-line script
+        
+      - name: See folders
+        run: echo ls
+        
+      - name: Scrape data
         run: make scrape
