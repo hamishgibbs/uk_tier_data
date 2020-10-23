@@ -1,0 +1,5 @@
+setup.py
+uk_tier_data.egg-info/PKG-INFO
+uk_tier_data.egg-info/SOURCES.txt
+uk_tier_data.egg-info/dependency_links.txt
+uk_tier_data.egg-info/top_level.txt

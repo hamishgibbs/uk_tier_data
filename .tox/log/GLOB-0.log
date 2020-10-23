@@ -1,0 +1,33 @@
+action: GLOB, msg: packaging
+cwd: /usr/tier
+cmd: /usr/local/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
+running sdist
+running egg_info
+writing uk_tier_data.egg-info/PKG-INFO
+writing dependency_links to uk_tier_data.egg-info/dependency_links.txt
+writing top-level names to uk_tier_data.egg-info/top_level.txt
+reading manifest file 'uk_tier_data.egg-info/SOURCES.txt'
+writing manifest file 'uk_tier_data.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating uk_tier_data-0.0.1
+creating uk_tier_data-0.0.1/uk_tier_data.egg-info
+copying files to uk_tier_data-0.0.1...
+copying setup.py -> uk_tier_data-0.0.1
+copying uk_tier_data.egg-info/PKG-INFO -> uk_tier_data-0.0.1/uk_tier_data.egg-info
+copying uk_tier_data.egg-info/SOURCES.txt -> uk_tier_data-0.0.1/uk_tier_data.egg-info
+copying uk_tier_data.egg-info/dependency_links.txt -> uk_tier_data-0.0.1/uk_tier_data.egg-info
+copying uk_tier_data.egg-info/top_level.txt -> uk_tier_data-0.0.1/uk_tier_data.egg-info
+Writing uk_tier_data-0.0.1/setup.cfg
+creating '.tox/dist/uk_tier_data-0.0.1.zip' and adding 'uk_tier_data-0.0.1' to it
+adding 'uk_tier_data-0.0.1'
+adding 'uk_tier_data-0.0.1/uk_tier_data.egg-info'
+adding 'uk_tier_data-0.0.1/PKG-INFO'
+adding 'uk_tier_data-0.0.1/setup.cfg'
+adding 'uk_tier_data-0.0.1/setup.py'
+adding 'uk_tier_data-0.0.1/uk_tier_data.egg-info/PKG-INFO'
+adding 'uk_tier_data-0.0.1/uk_tier_data.egg-info/SOURCES.txt'
+adding 'uk_tier_data-0.0.1/uk_tier_data.egg-info/dependency_links.txt'
+adding 'uk_tier_data-0.0.1/uk_tier_data.egg-info/top_level.txt'
+removing 'uk_tier_data-0.0.1' (and everything under it)
