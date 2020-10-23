@@ -20,4 +20,4 @@ jobs:
         run: make build
         
       - name: Scrape data
-        run: make scrape
+        run: docker run --rm --mount type=bind,source=${PWD},target=/usr/tier/ tier python main.py
