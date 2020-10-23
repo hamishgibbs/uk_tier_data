@@ -1,0 +1,10 @@
+name: 'UK tier data'
+description: 'Scrape data from Wikipedia on the Tier of Local Authority interventions in the UK'
+outputs:
+  data:
+    description: 'Scraped data'
+  log:
+    description: 'Log file'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
