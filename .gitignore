@@ -1,2 +1,4 @@
 .env
+__pycache__
+uk_tier_data.egg-info
 .DS_Store
