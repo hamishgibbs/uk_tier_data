@@ -14,10 +14,7 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-        
-      - name: See folders
-        run: ls
-      
+              
       - name: Build container
         run: make build
         
