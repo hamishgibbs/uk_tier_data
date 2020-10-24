@@ -1,5 +1,5 @@
 # uk_tier_data
-Scrape data from Wikipedia on the Tier of Local Authority interventions in the UK.
+Scrape data from Wikipedia on the tier of Local Authority interventions in the UK.
 
 **Data source:** https://en.wikipedia.org/wiki/COVID-19_tier_regulations_in_England
 
