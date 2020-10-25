@@ -192,7 +192,7 @@ if __name__ == '__main__':
 
     data = pd.read_csv(url)
 
-    pd.concat(data).to_csv('output/uk_tier_data_parliament_%s.csv' % run_time.strftime("%d_%m_%y_%H%M"), index = False)
-    pd.concat(data).to_csv('output/uk_tier_data_parliament_latest.csv', index = False)
+    data.to_csv('output/uk_tier_data_parliament_%s.csv' % run_time.strftime("%d_%m_%y_%H%M"), index = False)
+    data.to_csv('output/uk_tier_data_parliament_latest.csv', index = False)
 
     logging.info('Successfuly downloaded Parliament data.')

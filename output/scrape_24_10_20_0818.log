@@ -1,4 +1,0 @@
-INFO:root:Starting scrape: 24-10-20 08:18 Platform: Linux-5.4.0-1031-azure-x86_64-with-glibc2.2.5
-DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
-DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/COVID-19_tier_regulations_in_England HTTP/1.1" 200 28133
-INFO:root:Success.
