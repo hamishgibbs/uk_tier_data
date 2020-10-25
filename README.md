@@ -15,7 +15,7 @@ To access data locally, read data directly from the `output` folder or clone thi
 
 Local development requires [`docker`](https://www.docker.com/get-started) and (optionally) [`make`](https://www.gnu.org/software/make/).
 
-This project is based on the [python 3.8.0-slim docker image](https://hub.docker.com/_/python).
+This project is based on the [python 3.8.0-slim](https://hub.docker.com/_/python) docker image.
 
 To develop this repository locally, clone and `cd` into the repository.
 
