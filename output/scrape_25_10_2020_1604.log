@@ -1,6 +1,6 @@
-INFO:root:Starting Wikipedia scrape: 25-10-20 16:02 Platform: Linux-4.19.76-linuxkit-x86_64-with-glibc2.2.5
+INFO:root:Starting Wikipedia scrape: 25-10-2020 16:04 Platform: Linux-4.19.76-linuxkit-x86_64-with-glibc2.2.5
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
 DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/COVID-19_tier_regulations_in_England HTTP/1.1" 200 28132
 INFO:root:Successfuly downloaded Wikipedia data.
-INFO:root:Starting Parliament scrape: 25-10-20 16:02 Platform: Linux-4.19.76-linuxkit-x86_64-with-glibc2.2.5
+INFO:root:Starting Parliament scrape: 25-10-2020 16:04 Platform: Linux-4.19.76-linuxkit-x86_64-with-glibc2.2.5
 INFO:root:Successfuly downloaded Parliament data.
