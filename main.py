@@ -167,11 +167,11 @@ if __name__ == '__main__':
 
     run_time = datetime.datetime.now()
 
-    logging.basicConfig(filename='output/scrape_%s.log' % run_time.strftime("%d_%m_%y_%H%M"), level=logging.DEBUG)
+    logging.basicConfig(filename='output/scrape_%s.log' % run_time.strftime("%Y_%m_%d_%H%M"), level=logging.DEBUG)
 
     ''' Scrape data from Wikipedia table '''
 
-    logging.info('Starting Wikipedia scrape: %s Platform: %s' % (run_time.strftime("%d-%m-%y %H:%M"), platform.platform()))
+    logging.info('Starting Wikipedia scrape: %s Platform: %s' % (run_time.strftime("%d-%m-%Y %H:%M"), platform.platform()))
 
     url = 'https://en.wikipedia.org/wiki/COVID-19_tier_regulations_in_England'
 
@@ -179,12 +179,12 @@ if __name__ == '__main__':
 
     data = [parse_scrape_row(x) for x in data if x is not None]
 
-    pd.concat(data).to_csv('output/uk_tier_data_wikipedia_%s.csv' % run_time.strftime("%d_%m_%y_%H%M"), index = False)
+    pd.concat(data).to_csv('output/uk_tier_data_wikipedia_%s.csv' % run_time.strftime("%Y_%m_%d_%H%M"), index = False)
     pd.concat(data).to_csv('output/uk_tier_data_wikipedia_latest.csv', index = False)
 
     logging.info('Successfuly downloaded Wikipedia data.')
 
-    logging.info('Starting Parliament scrape: %s Platform: %s' % (run_time.strftime("%d-%m-%y %H:%M"), platform.platform()))
+    logging.info('Starting Parliament scrape: %s Platform: %s' % (run_time.strftime("%Y_%m_%d %H:%M"), platform.platform()))
 
     ''' Download data from parliament website '''
 
@@ -192,7 +192,7 @@ if __name__ == '__main__':
 
     data = pd.read_csv(url)
 
-    pd.concat(data).to_csv('output/uk_tier_data_parliament_%s.csv' % run_time.strftime("%d_%m_%y_%H%M"), index = False)
-    pd.concat(data).to_csv('output/uk_tier_data_parliament_latest.csv', index = False)
+    data.to_csv('output/uk_tier_data_parliament_%s.csv' % run_time.strftime("%Y_%m_%d_%H%M"), index = False)
+    data.to_csv('output/uk_tier_data_parliament_latest.csv', index = False)
 
     logging.info('Successfuly downloaded Parliament data.')
