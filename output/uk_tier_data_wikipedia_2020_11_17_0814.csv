@@ -1,0 +1,167 @@
+county,la_name,tier,date
+"All of England, apart from the areas in tiers 2 and 3
+",NA,Tier 1 (Medium alert),14 Oct 2020
+Cheshire:, Cheshire East,Tier 2 (High alert),14 Oct 2020
+Cheshire:,Cheshire West,Tier 2 (High alert),14 Oct 2020
+Cheshire:,Chester,Tier 2 (High alert),14 Oct 2020
+Derbyshire,parts of High Peak,Tier 2 (High alert),14 Oct 2020
+Durham,Durham,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Bolton,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Bury,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Manchester,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Oldham,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Rochdale,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Salford,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,"Stockport, Tameside",Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Trafford,Tier 2 (High alert),14 Oct 2020
+Greater Manchester,Wigan,Tier 2 (High alert),14 Oct 2020
+Leicestershire,Leicester,Tier 2 (High alert),14 Oct 2020
+Leicestershire,Oadby and Wigston,Tier 2 (High alert),14 Oct 2020
+Northumberland,Northumberland,Tier 2 (High alert),14 Oct 2020
+South Yorkshire:,  Barnsley,Tier 2 (High alert),14 Oct 2020
+South Yorkshire:,Doncaster,Tier 2 (High alert),14 Oct 2020
+South Yorkshire:,Rotherham,Tier 2 (High alert),14 Oct 2020
+South Yorkshire:,Sheffield,Tier 2 (High alert),14 Oct 2020
+Tees Valley,Darlington,Tier 2 (High alert),14 Oct 2020
+Tees Valley,Hartlepool,Tier 2 (High alert),14 Oct 2020
+Tees Valley,Middlesbrough,Tier 2 (High alert),14 Oct 2020
+Tees Valley,Redcar and Cleveland,Tier 2 (High alert),14 Oct 2020
+Tees Valley,Stockton-on-Tees,Tier 2 (High alert),14 Oct 2020
+Tyne and Wear,Gateshead,Tier 2 (High alert),14 Oct 2020
+Tyne and Wear,Newcastle,Tier 2 (High alert),14 Oct 2020
+Tyne and Wear,North Tyneside,Tier 2 (High alert),14 Oct 2020
+Tyne and Wear,South Tyneside,Tier 2 (High alert),14 Oct 2020
+Tyne and Wear,Sunderland,Tier 2 (High alert),14 Oct 2020
+West Midlands:, Birmingham,Tier 2 (High alert),14 Oct 2020
+West Midlands:,Sandwell,Tier 2 (High alert),14 Oct 2020
+West Midlands:,Solihull,Tier 2 (High alert),14 Oct 2020
+West Midlands:,Wolverhampton,Tier 2 (High alert),14 Oct 2020
+West Midlands:,Walsall,Tier 2 (High alert),14 Oct 2020
+West Yorkshire:, Bradford,Tier 2 (High alert),14 Oct 2020
+West Yorkshire:,Calderdale,Tier 2 (High alert),14 Oct 2020
+West Yorkshire:,Kirklees,Tier 2 (High alert),14 Oct 2020
+West Yorkshire:,Leeds,Tier 2 (High alert),14 Oct 2020
+West Yorkshire:,Wakefield,Tier 2 (High alert),14 Oct 2020
+Cumbria,Barrow-in-Furness,Tier 2 (High alert),17 Oct 2020
+Derbyshire:, Chesterfield,Tier 2 (High alert),17 Oct 2020
+Derbyshire:,Erewash,Tier 2 (High alert),17 Oct 2020
+Derbyshire:,North East Derbyshire,Tier 2 (High alert),17 Oct 2020
+Essex,Basildon,Tier 2 (High alert),17 Oct 2020
+Essex,Braintree,Tier 2 (High alert),17 Oct 2020
+Essex,Brentwood,Tier 2 (High alert),17 Oct 2020
+Essex,Castle Point,Tier 2 (High alert),17 Oct 2020
+Essex,Chelmsford,Tier 2 (High alert),17 Oct 2020
+Essex,Colchester,Tier 2 (High alert),17 Oct 2020
+Essex,Epping Forest,Tier 2 (High alert),17 Oct 2020
+Essex,Harlow,Tier 2 (High alert),17 Oct 2020
+Essex,Maldon,Tier 2 (High alert),17 Oct 2020
+Essex,Rochford,Tier 2 (High alert),17 Oct 2020
+Essex,Tendring,Tier 2 (High alert),17 Oct 2020
+Essex,Uttlesford,Tier 2 (High alert),17 Oct 2020
+Greater London,City of London,Tier 2 (High alert),17 Oct 2020
+Greater London,Barking and Dagenham,Tier 2 (High alert),17 Oct 2020
+Greater London,Barnet,Tier 2 (High alert),17 Oct 2020
+Greater London,Bexley,Tier 2 (High alert),17 Oct 2020
+Greater London,Brent,Tier 2 (High alert),17 Oct 2020
+Greater London,Bromley,Tier 2 (High alert),17 Oct 2020
+Greater London,Camden,Tier 2 (High alert),17 Oct 2020
+Greater London,Croydon,Tier 2 (High alert),17 Oct 2020
+Greater London,Ealing,Tier 2 (High alert),17 Oct 2020
+Greater London,Enfield,Tier 2 (High alert),17 Oct 2020
+Greater London,Greenwich,Tier 2 (High alert),17 Oct 2020
+Greater London,Hackney,Tier 2 (High alert),17 Oct 2020
+Greater London,Hammersmith and Fulham,Tier 2 (High alert),17 Oct 2020
+Greater London,Haringey,Tier 2 (High alert),17 Oct 2020
+Greater London,Harrow,Tier 2 (High alert),17 Oct 2020
+Greater London,Havering,Tier 2 (High alert),17 Oct 2020
+Greater London,Hillingdon,Tier 2 (High alert),17 Oct 2020
+Greater London,Hounslow,Tier 2 (High alert),17 Oct 2020
+Greater London,Islington,Tier 2 (High alert),17 Oct 2020
+Greater London,Kensington and Chelsea,Tier 2 (High alert),17 Oct 2020
+Greater London,Kingston upon Thames,Tier 2 (High alert),17 Oct 2020
+Greater London,Lambeth,Tier 2 (High alert),17 Oct 2020
+Greater London,Lewisham,Tier 2 (High alert),17 Oct 2020
+Greater London,Merton,Tier 2 (High alert),17 Oct 2020
+Greater London,Newham,Tier 2 (High alert),17 Oct 2020
+Greater London,Redbridge,Tier 2 (High alert),17 Oct 2020
+Greater London,Richmond upon Thames,Tier 2 (High alert),17 Oct 2020
+Greater London,Southwark,Tier 2 (High alert),17 Oct 2020
+Greater London,Sutton,Tier 2 (High alert),17 Oct 2020
+Greater London,Tower Hamlets,Tier 2 (High alert),17 Oct 2020
+Greater London,Waltham Forest,Tier 2 (High alert),17 Oct 2020
+Greater London,Wandsworth,Tier 2 (High alert),17 Oct 2020
+Greater London,Westminster,Tier 2 (High alert),17 Oct 2020
+North Yorkshire,York,Tier 2 (High alert),17 Oct 2020
+Surrey,Elmbridge,Tier 2 (High alert),17 Oct 2020
+Berkshire,Slough,Tier 2 (High alert),24 Oct 2020
+Berkshire,,Tier 2 (High alert),24 Oct 2020
+Staffordshire,Stoke-on-Trent,Tier 2 (High alert),24 Oct 2020
+Staffordshire,,Tier 2 (High alert),24 Oct 2020
+West Midlands,Coventry,Tier 2 (High alert),24 Oct 2020
+Bedfordshire,Luton,Tier 2 (High alert),31 Oct 2020
+Derbyshire,Amber Valley,Tier 2 (High alert),31 Oct 2020
+Derbyshire,Bolsover,Tier 2 (High alert),31 Oct 2020
+Derbyshire,Derby,Tier 2 (High alert),31 Oct 2020
+Derbyshire,Derbyshire Dales,Tier 2 (High alert),31 Oct 2020
+Derbyshire,High Peak (all areas),Tier 2 (High alert),31 Oct 2020
+Derbyshire,South Derbyshire,Tier 2 (High alert),31 Oct 2020
+East Riding of Yorkshire:, East Riding,Tier 2 (High alert),31 Oct 2020
+East Riding of Yorkshire:,Hull,Tier 2 (High alert),31 Oct 2020
+Shropshire,":<sup class=""reference"" id=""cite_ref-FOOTNOTESI_11922020Reg_2_14-0""><a href=""#cite_note-FOOTNOTESI_11922020Reg_2-14"">[14]</a></sup> Telford &amp; Wrekin",Tier 2 (High alert),31 Oct 2020
+Leicestershire,Charnwood,Tier 2 (High alert),31 Oct 2020
+Lincolnshire,NE Lincs,Tier 2 (High alert),31 Oct 2020
+Lincolnshire,N Lincs,Tier 2 (High alert),31 Oct 2020
+Oxfordshire,Oxford,Tier 2 (High alert),31 Oct 2020
+Staffordshire,East Staffordshire,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Lichfield,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Newcastle-under-Lyme,Tier 2 (High alert),31 Oct 2020
+Staffordshire,South Staffordshire,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Stafford,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Stafford Moorlands,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Tamworth,Tier 2 (High alert),31 Oct 2020
+Staffordshire,Dudley,Tier 2 (High alert),31 Oct 2020
+"Carlisle
+",NA,Tier 2 (High alert),31 Oct 2020
+Liverpool region:, Halton,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Liverpool region:,Knowsley,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Liverpool region:,Liverpool,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Liverpool region:,Sefton,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Liverpool region:,St Helens,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Liverpool region:,Wirral,Tier 3 (Very high alert) *,17 Oct 2020 (originally 14 Oct)
+Lancashire,Blackpool,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Blackburn with Darwen,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Burnley,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Chorley,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Fylde,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Hyndburn,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Lancaster City Council,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Pendle,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Preston,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Ribble Valley,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Rossendale,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,South Ribble,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,West Lancashire,Tier 3 (Very high alert) *,17 Oct 2020
+Lancashire,Wyre,Tier 3 (Very high alert) *,17 Oct 2020
+Greater Manchester,Bolton,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Bury,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Manchester,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Oldham,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Rochdale,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Salford,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Stockport,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Tameside,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Trafford,Tier 3 (Very high alert) *,23 Oct 2020
+Greater Manchester,Wigan,Tier 3 (Very high alert) *,23 Oct 2020
+South Yorkshire,Barnsley,Tier 3 (Very high alert) *,24 Oct 2020
+South Yorkshire,Doncaster,Tier 3 (Very high alert) *,24 Oct 2020
+South Yorkshire,Rotherham,Tier 3 (Very high alert) *,24 Oct 2020
+South Yorkshire,Sheffield,Tier 3 (Very high alert) *,24 Oct 2020
+Cheshire:, Warrington,Tier 3 (Very high alert) *,27 Oct 2020
+Nottinghamshire:, Ashfield,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Bassetlaw,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Broxtowe,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Gedling,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Mansfield,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Newark &amp; Sherwood,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Nottingham,Tier 3 (Very high alert) *,30 Oct 2020
+Nottinghamshire:,Rushcliffe,Tier 3 (Very high alert) *,30 Oct 2020
